@@ -9,7 +9,11 @@
 	<packaging>jar</packaging>
 
 	<name>github-test-updated</name>
+<<<<<<< HEAD
 	<description>Demo project for Spring Boot Up</description>
+=======
+	<description>Demo project for Spring Boot</description>
+>>>>>>> branch 'issue' of https://github.com/nipuna1st/githubtest.git
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
